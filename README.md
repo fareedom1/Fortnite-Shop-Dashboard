@@ -27,14 +27,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Multiple filters can be applied simultaneously
-- [ ] Filters use different input types
+- [x] Multiple filters can be applied simultaneously
+- [x] Filters use different input types
   - e.g., as a text input, a dropdown or radio selection, and/or a slider
 - [ ] The user can enter specific bounds for filter values
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Responsive dark dashboard design with summary “cards” and clean item layout.
+* [x] All code is split into reusable components (SummaryCards, SearchBar, ShopItemList, ShopItem).
 
 ## Video Walkthrough
 
